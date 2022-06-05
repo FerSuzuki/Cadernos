@@ -1,0 +1,7 @@
+Exercícios
+
+- Árvore de Decisão
+Use os dados do Titanic.
+Crie uma arvore de decisão se os passageiros vão sobreviver ou não. (Cuidado com a idade em anos/meses)
+Para pegar os dados, use: https://www.kaggle.com/c/titanic/data
+
